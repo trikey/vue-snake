@@ -38,3 +38,18 @@ body {
 .flex-item p {
     color: black;
 }
+
+.box {
+    width: 20px;
+    height: 20px;
+    border: 1px solid green;
+    display: inline-block;
+}
+
+.snake {
+    background-color: blueviolet;
+}
+
+.food {
+    background-color: green;
+}

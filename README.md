@@ -1,29 +1,22 @@
-# snake
+<h1>SNAKE</h1>
 
-## Project setup
+<p>Made with vue, vuex, lodash</p>
+<p>Local storage is used to save score</p>
+
+<h2>Project setup</h2>
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+<h3>Compiles and hot-reloads for development</h3>
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+<h3>Compiles and minifies for production</h3>
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
+<h3>Customize configuration</h3>
 See [Configuration Reference](https://cli.vuejs.org/config/).

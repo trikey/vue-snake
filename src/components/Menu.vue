@@ -5,8 +5,8 @@
     </div>
 </template>
 <script>
-  import {mapMutations} from 'vuex'
-  import {mapGetters} from 'vuex' // Подключаем хелпер
+  import {mapMutations} from 'vuex';
+  import {mapGetters} from 'vuex';
 
   export default {
     computed: {

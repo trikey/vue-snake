@@ -12,8 +12,8 @@
 </template>
 <script>
   import _ from 'lodash';
-  import {mapGetters} from 'vuex' // Подключаем хелпер
-  import {mapMutations} from 'vuex'
+  import {mapGetters} from 'vuex';
+  import {mapMutations} from 'vuex';
 
   export default {
     data() {
@@ -148,19 +148,3 @@
     },
   };
 </script>
-<style type="text/css">
-    .box {
-        width: 20px;
-        height: 20px;
-        border: 1px solid green;
-        display: inline-block;
-    }
-
-    .snake {
-        background-color: blueviolet;
-    }
-
-    .food {
-        background-color: green;
-    }
-</style>
